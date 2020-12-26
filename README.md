@@ -5,3 +5,8 @@
 欢迎拍砖，一起刷题，涨姿势，get新技能，找到好工作。
 
 
+
+## 🚩[Day01 —— 2020-12-26](https://github.com/cinsyk/FE-Interview-Questions/JavaScript/day01.js)
+
+> 知识点：异步执行规则，事件循环机制
+
