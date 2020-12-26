@@ -6,7 +6,7 @@
 
 
 
-## 🚩[Day01 —— 2020-12-26](https://github.com/cinsyk/FE-Interview-Questions/JavaScript/day01.js)
+## 🚩[Day01 —— 2020-12-26](https://github.com/cinsyk/FE-Interview-Questions/blob/main/JavaScript/day01.js)
 
 > 知识点：异步执行规则，事件循环机制
 
